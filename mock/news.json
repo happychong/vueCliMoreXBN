@@ -1,0 +1,19 @@
+{
+    "statusCode": 2000000,
+    "data": {
+        "pageSize": 10,
+        "totalCount": 6,
+        "totalPages": 1,
+        "cPageNO": 1,
+        "list": [
+            {
+                "id": "ff808081575305c0015753e1cc190019",
+                "userID": "40289e5d519fe5e30151a400c8380042",
+                "name": "okma",
+                "title": null,
+                "createTime": "2017-04-06 17:07:20",
+                "updateTime": "2017-04-06 17:07:20"
+            }
+        ]
+    }
+}

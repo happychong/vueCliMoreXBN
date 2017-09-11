@@ -1,0 +1,65 @@
+{
+  "newslist": {
+    "statusCode": "2000000",
+    "data": {
+      "pageSize": 10,
+      "totalCount": 3,
+      "totalPages": 1,
+      "cPageNO": 1,
+      "list": [
+        {
+          "news_id": "ff80808157db86860157dc000de70001",
+          "title": "小笨鸟亮相2016双创周活动",
+          "shortContent": "小笨鸟参加第二届全国大众创业万众创新活动周，受到各界关注。",
+          "content": "\u003cp\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e2016\u003cfont face\u003d\"宋体\"\u003e年\u003c/font\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e10\u003cfont face\u003d\"宋体\"\u003e月\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e12\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e日，第二届全国大众创业万众创新活动周（简称“双创周”）北京会场主题展在中关村国家自主创新示范区展示中心拉开帷幕。\u003c/font\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e本次展览以“发展新经济，培育新动能”为主题，展示内容分为五个板块：构建创新创业新生态、引领新经济澎湃新动能、京津冀协同创新共同体、创业文化和双创活动以及室外展示的创业服务机构，共195个项目，其中成立5年内的项目135个，占70%；今年新参展的项目185个，占95%，涉及多个前沿技术和产业领域。此次展示突出了突出“深、新、硬”的特点，各类主体深度参与，使双创向纵深发展，硬科技支撑成为双创主流，涌现了一大批新技术、新产品、新模式、新业态，让人耳目一新、眼前一亮，显示出全国科技创新中心建设最新成果。\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e小笨鸟跨境电商平台作为展商亮相双创周，虽然成立的时间不长，但却另辟蹊径搭建了一个整合平台，为出口电商和消费者搭建了\u003c/font\u003e“平台中的平台”。目前，小笨鸟电子商务平台已成功对接\u003cfont face\u003d\"Calibri\"\u003e45\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e个国家的\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e75\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e个网络站点，覆盖全球几十个国家的近\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e20\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e亿人口，打造全球性网购“平台中的平台”。受益于国家“一带一路”战略，“小笨鸟”设立海外运营中心，从线上延伸到线下，形成“当地电商平台\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e+\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e当地运营中心\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e+\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e中国产品”的销售模式。小笨鸟每分钟向全球发布\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e69\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e个商品，每小时产生\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e570\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e个订单，\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e2015\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e年出口额\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e4.02\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e亿美元，\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e2016\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e年\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e1-8\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e月出口总额\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e52\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e亿美元。\u003c/font\u003e\u003c/span\u003e\u003c/p\u003e",
+          "createTime": "2016-10-12 16:12:49"
+        },
+        {
+          "news_id": "ff80808157db86860157dc069ab50002",
+          "title": "小笨鸟启动产品质量安全追溯平台建设",
+          "shortContent": "为了更好保证消费安全，北京出入境检验检疫局、小笨鸟跨境电商产品质量安全追溯平台建设启动。",
+          "content": "\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e为了更好保证消费安全，维护中国制造海外形象，增强国外消费者对中国制造的信心，\u003c/font\u003e2016\u003cfont face\u003d\"宋体\"\u003e年\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e9\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e月\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e26\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e日，北京出入境检验检疫局、小笨鸟跨境电商产品质量安全追溯平台在京启动。\u003c/font\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e去年\u003c/font\u003e12\u003cfont face\u003d\"宋体\"\u003e月，国务院发布了《关于加快推进重要产品追溯体系建设的意见》，加快建设先进适用的重要产品追溯体系，促进质量安全综合治理，提升产品质量安全水平。今年\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e8\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e月\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e24\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e日，国务院总理李克强主持召开国务院常务会议，要求建立主要消费品质量安全追溯体系。\u003c/font\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e严格控制产品质量一直是小笨鸟始终的理念，北京出入境检验检疫局与小笨鸟共同推出的跨境电商产品质量安全追溯平台是跨境电商出口领域的首次尝试。此次合作，是政府数字化监管与企业信息化质量控制的有机结合，是首个服务于海外买家的商品追溯应用系统。海外买家可以通过扫描商品上的二维码，快速、实时地查询商品、生产企业及流通环节的各项信息，使其买得放心，用得放心。通过数据追踪手段形成产品安全链条，更好的发现、解决问题，从根本上保证产品质量安全，维护消费者权益。\u003c/font\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e启动仪式上，北京出入境检验检疫局局长刘德平指出小笨鸟积极落实\u003c/font\u003e“走出去”国家战略，\u003cfont face\u003d\"宋体\"\u003e主动承担更多社会责任，质量管理进入了可追溯时代。希望小笨鸟通过追溯手段，切实维护中国制造海外形象，增强国外消费者对中国制造的信心。\u003c/font\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e国家新媒体产业基地管委会主任闫德强指出小笨鸟是电子商务领域创新的典范，追溯平台的突出是有一个崭新的尝试，对于提升出口产品质量安全、扩大产品出口产生积极影响。小笨鸟也势必会更好的发展，实现出口企业、电商平台和消费者的\u003c/font\u003e“多赢”。\u003c/span\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e小笨鸟董事长许丹霞女士对小笨鸟及其质量控制体系、追溯平台进行了介绍，表示小笨鸟此次通过数据追踪手段形成产品溯源体系，建立从生产到销售的良性生态链，将更好的发现、解决问题，从根本上保证产品质量安全，维护消费者权益，未来将不断努力，切实维护中国制造海外形象，增强国外消费者对中国制造的信心。\u003c/font\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e北京出入境检验检疫局副局长王大路、大兴区副区长方健\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e等出席了此次活动。\u003c/font\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e\u003c/font\u003e\u003c/span\u003e\u003c/p\u003e",
+          "createTime": "2016-09-26 16:19:58"
+        },
+        {
+          "news_id": "ff80808157db86860157dc09ca2a0003",
+          "title": "小笨鸟与芜湖市政府战略合作",
+          "shortContent": "小笨鸟跨境电子商务平台与芜湖市人民政府战略合作签约仪式在京举行。",
+          "content": "\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e2016\u003cfont face\u003d\"宋体\"\u003e年\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e9\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e月\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003e5\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e日，小笨鸟跨境电子商务平台与芜湖市人民政府战略合作签约仪式在北京举行。芜湖市政府市长潘朝晖，芜湖经开区管委会主任、芜湖综保区管委会主任陆雷，芜湖市政府副秘书长孙平，芜湖综保区管委会副主任季学敏，北京\u003c/font\u003e\u003cfont face\u003d\"Calibri\"\u003eCED\u003c/font\u003e\u003cfont face\u003d\"宋体\"\u003e办公室副主任何丽等出席了仪式。\u003c/font\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e小笨鸟董事长许丹霞，\u003c/font\u003eCEO\u003cfont face\u003d\"宋体\"\u003e刘寅，常务副总裁汪伟陪同来访嘉宾参观了小笨鸟运营展示中心和研发中心，并详细介绍了小笨鸟跨境电商平台。\u003c/font\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:Calibri;font-size:10.5000pt;\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003cfont face\u003d\"宋体\"\u003e小笨鸟作为开放式的公共电子商务平台，旨在为更多不同类型、不同行业的企业提供综合、高效的外贸出口服务，已经对主要的海外市场实现了全部覆盖。芜湖地理优势显著，产业基础雄厚，制造业发达，配套服务完善，具有发展跨境电子商务的显著优势。小笨鸟将在通过现有多种创新模式为芜湖企业提供更加高效、丰富的出口通道的同时，助力企业、产品的品质提升。同时，小笨鸟将结合芜湖市的优势，为各细分领域企业提供定制化解决方案。此次小笨鸟与芜湖市的战略合作将充分发挥双方优势，促进外贸发展，对拉动经济促进出口具有重要意义。\u003c/font\u003e\u003c/span\u003e\u003cspan style\u003d\"font-family:宋体;font-size:10.5000pt;\"\u003e\u003c/span\u003e\u003c/p\u003e",
+          "createTime": "2016-09-05 16:23:27"
+        }
+      ]
+    }
+  },
+  "newsDetails": {
+    "statusCode": "2000000",
+    "data": {
+      "news_id": "8a80809a5c870f04015c8aacfd86065e",
+      "title": "免费领取500美元推广福利，引爆你的店铺流量！",
+      "shortContent": "小笨鸟微信号将不定期举行各种有奖活动，现正在进行送你500美元免费谷歌推广活动，等你来参加！",
+      "content": "\u003cdiv\u003e人世间每一次的相遇都是久别重逢。\u003c/div\u003e\u003cdiv\u003e\u0026nbsp;\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e不仅因为工作所需我们在此相识，小笨鸟相信更是缘分让我们彼此相互信任，感谢所有会员们对我们的信任与支持。\u003c/div\u003e\u003cdiv\u003e\u0026nbsp;\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e作为忙碌的跨境人，大家每天要了解最新的国内外时事政策，分析国外选品的优势劣势，查看各大电商平台的销售数据……\u003c/div\u003e\u003cdiv\u003e\u0026nbsp;\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e为了让大家节省部分查找行业动态的时间， 我们邀请您关注小笨鸟微信公众号，这里有新鲜有用的新闻资讯，满满的“干货知识”……\u003c/div\u003e\u003cdiv\u003e\u0026nbsp;\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e最最最重要的！小笨鸟微信号将不定期举行各种有奖活动，现正在进行送你500美元免费谷歌推广活动，等你来参加！\u003c/div\u003e\u003cdiv\u003e\u0026nbsp;\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e现在关注小笨鸟微信号\u003c/div\u003e\u003cdiv\u003e\u0026nbsp;\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e即有机会获得500美元推广福利\u003c/div\u003e\u003cdiv\u003e\u003cimg data-fileid\u003d\"8a8080945b42a93a015c8ab0407f2466\" _ke_saved_src\u003d\"http://image.xbniao.com/other/2017/06/09/e8274772-f4db-416d-80f2-8ec600c4dca2.jpg\" src\u003d\"http://image.xbniao.com/other/2017/06/09/e8274772-f4db-416d-80f2-8ec600c4dca2.jpg\"\u003e\u003cbr\u003e\u003c/div\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e",
+      "createTime": "2017-06-09 10:26:51",
+      "updateTime": "2017-06-09 10:30:28"
+    }
+  }
+  ,
+  "datagrid": {
+      "statusCode": "2000000",
+      "data": {
+        "pageSize": 10,
+        "totalCount": 3,
+        "totalPages": 1,
+        "cPageNO": 1,
+        "list": [
+            {
+                "id": "ff808081575305c0015753e1cc190019",
+                "userID": "40289e5d519fe5e30151a400c8380042",
+                "name": "okma",
+                "title": null,
+                "createTime": "2017-04-06 17:07:20",
+                "updateTime": "2017-04-06 17:07:20"
+            }
+        ]
+      }
+  }
+}
